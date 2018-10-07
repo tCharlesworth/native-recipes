@@ -1,0 +1,99 @@
+{
+    "recipes": [
+        {
+            "uid": "0",
+            "name": "Traeger 3 2 1 Baby Back Ribs",
+            "credit": null,
+            "createdAt": null,
+            "ingredients": [
+                {
+                    "qty": 2,
+                    "uom": "Rack",
+                    "name": "Baby Back Pork Ribs"
+                },{
+                    "qty": 0.33,
+                    "uom": "Cup",
+                    "name": "Yellow Mustard"
+                },{
+                    "qty": 0.5,
+                    "uom": "Cup",
+                    "name": "Divided Apple Juice"
+                },{
+                    "qty": 1,
+                    "uom": "Tablespoon",
+                    "name": "Worcestershire Sauce"
+                },{
+                    "qty": 0.5,
+                    "uom": "Cup",
+                    "name": "Dark Brown Sugar"
+                },{
+                    "qty": 0.33,
+                    "uom": "Cup",
+                    "name": "Warmed Honey"
+                },{
+                    "qty": 0,
+                    "uom": "To Taste",
+                    "name": "Traeger Pork and Poultry Rub"
+                }
+            ],
+            "directions": [
+                {
+                    "idx": 0,
+                    "text": "If your butcher has not already done so, remove the thin silverskin membrane from the bone-side of the ribs by working the tip of a butter knife or a screwdriver underneath the membrane over a middle bone. Use paper towels to get a firm grip, then tear the membrane off."
+                },{
+                    "idx": 1,
+                    "text": "In a small bowl, combine the mustard, 1/4 cup of apple juice (reserve the rest), and the Worcestershire sauce. Spread the mixture thinly on both sides of the ribs and season with Traeger Pork and Poultry Rub."
+                },{
+                    "idx": 2,
+                    "text": "When ready to cook, start the Traeger according to grill instructions. Set the temperature to the Smoke setting, and preheat, lid closed for 10-15 minutes."
+                },{
+                    "idx": 3,
+                    "text": "Smoke the ribs, meat-side up for 3 hours."
+                },{
+                    "idx": 4,
+                    "text": "Transfer the ribs to a rimmed baking sheet and increase the grill temperature to 225 degrees F."
+                },{
+                    "idx": 5,
+                    "text": "Tear off four long sheets of heavy-duty aluminum foil. Top with a rack of ribs abd pull up the sides to keep the liquid enclosed."
+                },{
+                    "idx": 6,
+                    "text": "Sprinkle half the brown sugar on the rack, then top with half the honey and half of the remaining apple juice. Use a bit more apple juice if you want more tender ribs."
+                },{
+                    "idx": 7,
+                    "text": "Lay another piece of foil on top and tightly crimp the edges so there is no leakage. Repeat with the remaining rack of ribs."
+                },{
+                    "idx": 8,
+                    "text": "Return the foiled ribs to the grill and cook for an additional two hours."
+                },{
+                    "idx": 9,
+                    "text": "Carefully remove the foil from the ribs and brush the ribs on both sides with Traeger 'Que Sauce. Discard the foil."
+                },{
+                    "idx": 10,
+                    "text": "Arrange the ribs directly on the grill grate and continue to grill until the sauce tightens, 30 minutes to 60 minutes more."
+                }
+            ]
+        },
+        {
+            "uid": "1",
+            "name": "Smoked Salmon",
+            "createdAt": null,
+            "credit": null,
+            "ingredients": [
+                {
+                    "qty": 1,
+                    "uom": "Each",
+                    "name": "Large Salmon (2.5 - 3 lbs)"
+                }
+            ],
+            "directions": [
+                {
+                    "idx": 0,
+                    "text": "Smoke in the traeger for 30 minutes."
+                },{
+                    "idx": 1,
+                    "text": "Cook in the traeger at 225 degrees F. for about 50 minutes or until the internal temperature reaches 150 degrees F."
+                }
+            ]
+        }
+    ]
+}
