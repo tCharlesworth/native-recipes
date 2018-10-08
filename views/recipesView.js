@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { StyleSheet, View, Text } from 'react-native';
+import { Link } from 'react-router-native';
 
 import RecipeListView from './recipesListView';
 import RecipeTileView from './recipesTileView';
@@ -28,9 +29,9 @@ export default class RecipesView extends Component {
     }
     renderNewButton() {
         return (
-            <View style={styles.newButton}>
+            <Link to="/new-recipe" style={styles.newButton}>
                 <Text style={styles.newButtonText}>+</Text>
-            </View>
+            </Link>
         )
     }
     render() {

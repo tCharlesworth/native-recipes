@@ -14,6 +14,6 @@ export default class NewRecipeView extends Component {
                     <Text>Ingredients</Text>
                 </View>
             </View>
-        )
+        );
     }
 }
